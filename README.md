@@ -1,7 +1,7 @@
 # hotel_room_booking_api
 It contains api for hotel room booking
 
-steps to innstall:
+steps to install:
 ------------------
 1) clone the repo
 2) use command "npm install"
