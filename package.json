@@ -1,0 +1,19 @@
+{
+  "name": "hotel_rooms",
+  "version": "1.0.0",
+  "description": "It contains REST APIS for adding room booking details and hotels listsing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.3",
+    "path": "^0.12.7"
+  }
+}
